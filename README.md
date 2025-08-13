@@ -15,7 +15,6 @@ A **C++-based Library Management System** with SQLite integration for efficient 
 ## Technologies Used
 - **C++**
 - **SQLite3**
-- **File I/O (C++ standard library)**
 
 ---
 
